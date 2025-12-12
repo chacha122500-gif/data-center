@@ -13,7 +13,7 @@
  body {
     display: block; 
    background-color: #f4f8fb;
-   margin:0 auto; padding:0; width:100%; height:auto;
+   margin:0 auto; padding:0; width:100%; height:auto; vertical-align : inline-block;
  
  }
 
