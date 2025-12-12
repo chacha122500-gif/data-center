@@ -8,24 +8,3 @@
 ![wt](https://github.com/user-attachments/assets/c9ea6d0f-897a-4634-808b-2d1ccc8543e9)
 ![1765517040270_108596073216208](https://github.com/user-attachments/assets/dcd713a6-4f4d-47bf-a302-a3fd87ed091d)-->
 <img width="1440" height="100%" alt="1117_06" src="https://github.com/user-attachments/assets/f64b9ce6-700b-475a-b8c4-20f2d660dc1f" />
-
-<style>
- body {
-    display: flex; 
-   background-color: #f4f8fb;
-   margin:0 auto; padding:0; width:100%; height:auto;
-  flex-direction: column;
-  align-items: center;
-  }
-
-  img {   
-     display: block; 
-   margin:0; padding:0;
-  
-}
-
-div {
- padding:0;
-  margin: 0;
-  }
-</style>
