@@ -12,8 +12,10 @@
 <style>
  
 
-  img {   vertical-align: bottom;
+  img {   
   display: block; margin:0; padding:0;
+   vertical-align: bottom;
+
 }
 
 div {
