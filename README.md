@@ -22,7 +22,7 @@
   img {   
      display: flex; 
    margin:0; padding:0;
-   vertical-align: baseline;
+   /* vertical-align: baseline; */
   flex-direction: column;
   align-items: center;
    
