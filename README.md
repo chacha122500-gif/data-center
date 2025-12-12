@@ -20,9 +20,12 @@
  }
 
   img {   
-  display: block; margin:0; padding:0;
+     display: flex; 
+   margin:0; padding:0;
    vertical-align: baseline;
-
+  flex-direction: column;
+  align-items: center;
+   
 }
 
 div {
