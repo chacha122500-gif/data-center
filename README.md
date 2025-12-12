@@ -16,19 +16,16 @@
    margin:0 auto; padding:0; width:100%; height:auto;
   flex-direction: column;
   align-items: center;
- 
- }
+  }
 
   img {   
      display: block; 
    margin:0; padding:0;
-   
-   
+  
 }
 
 div {
  padding:0;
   margin: 0;
-  
-}
+  }
 </style>
