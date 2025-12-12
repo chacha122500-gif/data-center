@@ -12,12 +12,12 @@
 <style>
  
 
-  img {
+  img {   vertical-align: bottom;
   display: block; margin:0; padding:0;
 }
 
 div {
-  width: max-content;
+  width: max-content;  padding:0;
   margin: 0;
   
 }
