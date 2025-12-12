@@ -12,9 +12,3 @@
 
 
  
-<style>
- html {
-  background-color: #f4f8fb;
-  width:100%; height:auto;
- }
-</style>
