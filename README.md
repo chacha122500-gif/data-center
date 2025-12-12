@@ -10,7 +10,9 @@
 <img width="1440" height="100%" alt="1117_06" src="https://github.com/user-attachments/assets/f64b9ce6-700b-475a-b8c4-20f2d660dc1f" />
 
 <style>
- 
+ body {
+  background {color: #f4f8fb; margin:0 auto; padding:0;}
+ }
 
   img {   
   display: block; margin:0; padding:0;
