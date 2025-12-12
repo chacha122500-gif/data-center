@@ -14,12 +14,12 @@
 
   img {   
   display: block; margin:0; padding:0;
-   vertical-align: bottom;
+   vertical-align: baseline;
 
 }
 
 div {
-  width: max-content;  padding:0;
+ padding:0;
   margin: 0;
   
 }
