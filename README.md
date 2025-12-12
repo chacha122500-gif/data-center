@@ -11,8 +11,10 @@
 
 <style>
  body {
-  background-color { color: #f4f8fb;}
-  background { margin:0 auto; padding:0; width:100%; height:auto; }
+    display: block; 
+   background-color: #f4f8fb;
+   margin:0 auto; padding:0; width:100%; height:auto;
+ 
  }
 
   img {   
