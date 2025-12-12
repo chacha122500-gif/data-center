@@ -11,9 +11,11 @@
 
 <style>
  body {
-    display: block; 
+    display: flex; 
    background-color: #f4f8fb;
-   margin:0 auto; padding:0; width:100%; height:auto; vertical-align : baseline;
+   margin:0 auto; padding:0; width:100%; height:auto;
+  flex-direction: column;
+  align-items: center;
  
  }
 
